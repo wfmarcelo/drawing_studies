@@ -1,3 +1,5 @@
 # Ignora todos os arquivos de vídeo com a extensão .mkv
 *.mkv
 *.blend1
+*.kra~
+*.kra-autosave.kra
